@@ -1,0 +1,8 @@
+[
+    {"sleep_state": "Light", "hours": 2, "time": "22:00"},
+    {"sleep_state": "Deep", "hours": 1.5, "time": "00:00"},
+    {"sleep_state": "REM", "hours": 1, "time": "01:30"},
+    {"sleep_state": "Light", "hours": 2.5, "time": "02:30"},
+    {"sleep_state": "Deep", "hours": 2, "time": "05:00"},
+    {"sleep_state": "REM", "hours": 0.5, "time": "07:00"}
+]
