@@ -1,1 +1,1 @@
-#WearOS App for FitTrack
+# WearOS App for FitTrack
